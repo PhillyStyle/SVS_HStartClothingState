@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Games\\Dev\\SVS_HStartClotingState\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69395A38-457D-4894-A727-C7F8F51FEEBA}|SVS_HStartClotingState.csproj|c:\\games\\dev\\svs_hstartclotingstate\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69395A38-457D-4894-A727-C7F8F51FEEBA}|SVS_HStartClotingState.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69395A38-457D-4894-A727-C7F8F51FEEBA}|SVS_HStartClotingState.csproj|c:\\games\\dev\\svs_hstartclotingstate\\svs_hstartclotingstate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69395A38-457D-4894-A727-C7F8F51FEEBA}|SVS_HStartClotingState.csproj|solutionrelative:svs_hstartclotingstate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SVS_HStartClotingState",
+              "DocumentMoniker": "C:\\Games\\Dev\\SVS_HStartClotingState\\SVS_HStartClotingState.csproj",
+              "RelativeDocumentMoniker": "SVS_HStartClotingState.csproj",
+              "ToolTip": "C:\\Games\\Dev\\SVS_HStartClotingState\\SVS_HStartClotingState.csproj",
+              "RelativeToolTip": "SVS_HStartClotingState.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T00:19:50.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Games\\Dev\\SVS_HStartClotingState\\Plugin.cs",
+              "RelativeDocumentMoniker": "Plugin.cs",
+              "ToolTip": "C:\\Games\\Dev\\SVS_HStartClotingState\\Plugin.cs",
+              "RelativeToolTip": "Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:17:34.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
