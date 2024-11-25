@@ -3,14 +3,10 @@ using BepInEx.Logging;
 using BepInEx.Unity.IL2CPP;
 using System.Collections.Generic;
 using Character;
-using System.ComponentModel;
 using BepInEx.Configuration;
-using ADV.Commands.Base;
 using HarmonyLib;
-using SV.H.Words;
 using SV.H;
 using SaveData;
-using System.Linq;
 
 namespace SVS_HStartClothingState;
 
